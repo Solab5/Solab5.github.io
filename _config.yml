@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Twinomugisha Morris"
 title_separator          : "-"
 name                     : &name "Twinomugisha Morris"
-description              : &description "DataScientist, 87th GRC Makerere University, Deeplearning specialist, lifelong learner"
+description              : &description "DataScientist, ML & Deeplearning practioner, lifelong learner, 87th GRC Makerere University"
 url                      : https://Solab5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Solab5/Solab5.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Twinomugisha Morris"
-  avatar           : "profile.png"
-  bio              : "Data Scientist, Currently focusing on Applying deep learning in Biology"
+  avatar           : "profile.jpg"
+  bio              : "Data Scientist, Currently focusing on Applying deep learning in different disciplines."
   location         : "Uganda"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mouricealsina"
+  twitter          : "aboutScienceee"
   vine             :
   weibo            :
   xing             :
