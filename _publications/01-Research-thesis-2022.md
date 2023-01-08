@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised machine learning for early faulty device detection"
 collection: publications
-permalink: /publication/Research-thesis-2022
+permalink: /publication/01-Research-thesis-2022
 excerpt: 'A case study of Machine learning in detection of faulty devices'
 date: 2022-11-01
 venue: 'Machine learning in Airquality'
