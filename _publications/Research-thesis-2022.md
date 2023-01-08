@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Unsupervised machine learning for early faulty device detection"
 collection: publications
 permalink: /publication/Research-thesis-2022
 excerpt: 'A case study of Machine learning in detection of faulty devices'
